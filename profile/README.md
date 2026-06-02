@@ -13,7 +13,7 @@ Use the **Infineon Code Finder** to filter projects by board, product family, an
 - [Zephyr Project](https://github.com/Test-IFX/Infineon-Zephyr) (RTOS, boards, drivers)
 - [Arduino](https://github.com/Test-IFX/Arduino-IFX) (cores, libraries, examples)
 - [Micropython](https://github.com/Test-IFX/MicroPython-IFX) (selected platforms/integrations)
-- 
+  
 #### **Community, support & more resources**
 | Resource | Link |
 |---|---|
