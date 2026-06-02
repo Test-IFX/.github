@@ -10,7 +10,7 @@ Use the **Infineon Code Finder** to filter projects by board, product family, an
 - [Open Code Finder](https://jubyjohnson25.github.io/)
 
 ### Looking for Infineon enablement in popular open-source projects?
-- [Zephyr Project](https://github.com/zephyrproject-rtos/zephyr) (RTOS, boards, drivers)
+- [Zephyr Project](https://github.com/zephyrproject-rtos/zephyr](https://github.com/Test-IFX/Infineon-Zephyr) (RTOS, boards, drivers)
 - [Arduino](https://github.com/arduino) (cores, libraries, examples)
 - [Mbed OS](https://github.com/ARMmbed/mbed-os) (selected platforms/integrations)
 - [Linux kernel](https://github.com/torvalds/linux) (SoC/platform support, drivers)
