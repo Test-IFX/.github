@@ -16,8 +16,11 @@ Use the **Infineon Code Finder** to filter projects by board, product family, an
 - [Linux kernel](https://github.com/torvalds/linux) (SoC/platform support, drivers)
 
 #### **Community, support & more resources**
-- Infineon Developer Community: https://community.infineon.com/
-- Infineon Developer Center (tools, software, and enablement): https://www.infineon.com/cms/en/design-support/
-- Infineon website: https://www.infineon.com/
-- Product & application information: https://www.infineon.com/cms/en/product/
-- Documentation & support resources: https://www.infineon.com/cms/en/design-support/
+| Resource | Link |
+|---|---|
+| Infineon Developer Community | https://community.infineon.com/ |
+| Infineon Developer Center (tools, software, and enablement) | https://www.infineon.com/cms/en/design-support/ |
+| Infineon website | https://www.infineon.com/ |
+| Product & application information | https://www.infineon.com/cms/en/product/ |
+| Documentation & support resources | https://www.infineon.com/cms/en/design-support/ |
+
