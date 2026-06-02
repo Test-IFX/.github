@@ -13,4 +13,4 @@ We publish open-source software, reference implementations, tools, and documenta
 
 - Get Started
 ## Explore repositories by domain
-- [Automotive](https://github.com/orgs/Infineon/repositories?q=topic%3Aautomotive) | [Edge AI](https://github.com/orgs/Infineon/repositories?q=topic%3Aedge-ai) | [IoT & Connectivity(https://github.com/orgs/Infineon/repositories?q=topic%3Aiot)
+- [Automotive](https://github.com/orgs/Infineon/repositories?q=topic%3Aautomotive) | [Edge AI](https://github.com/orgs/Infineon/repositories?q=topic%3Aedge-ai) | [IoT & Connectivity](https://github.com/orgs/Infineon/repositories?q=topic%3Aiot)
