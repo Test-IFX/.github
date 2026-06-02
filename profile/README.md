@@ -15,8 +15,6 @@ Use the **Infineon Code Finder** to filter projects by board, product family, an
 - [Mbed OS](https://github.com/ARMmbed/mbed-os) (selected platforms/integrations)
 - [Linux kernel](https://github.com/torvalds/linux) (SoC/platform support, drivers)
 
-> Tip: To find Infineon-related components in these ecosystems, search within the project for keywords like `infineon`, board names, or specific device families.
-
 #### **Community, support & more resources**
 - Infineon Developer Community: https://community.infineon.com/
 - Infineon Developer Center (tools, software, and enablement): https://www.infineon.com/cms/en/design-support/
