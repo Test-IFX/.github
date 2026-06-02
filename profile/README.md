@@ -3,7 +3,7 @@ Welcome to the Infineon GitHub organization.
 We publish open-source software, reference implementations, tools, and documentation that help developers build secure, energy-efficient, and connected systems using Infineon technologies—across embedded, automotive, industrial, IoT, power, and security applications.
 
 ### **Explore by domain**
-[Automotive](https://github.com/Test-IFX/Automotive/tree/main) | [Edge AI Hub](https://deepcraft.infineon.com/)| [IoT & Connectivity](https://github.com/orgs/Infineon/repositories?q=topic%3Aiot)
+[Automotive](https://github.com/Test-IFX/Automotive/tree/main) | [Edge AI](https://github.com/Test-IFX/EdgeAI-IFX)| [Power Systems](https://github.com/orgs/Infineon/repositories?q=topic%3Aio](https://github.com/Test-IFX/PowerSystems-IFX)t)
 
 ### **Find code by board, product, or application**
 Use the **Infineon Code Finder** to filter projects by board, product family, and use case:  
@@ -11,10 +11,9 @@ Use the **Infineon Code Finder** to filter projects by board, product family, an
 
 ### Looking for Infineon enablement in popular open-source projects?
 - [Zephyr Project](https://github.com/Test-IFX/Infineon-Zephyr) (RTOS, boards, drivers)
-- [Arduino](https://github.com/arduino) (cores, libraries, examples)
-- [Mbed OS](https://github.com/ARMmbed/mbed-os) (selected platforms/integrations)
-- [Linux kernel](https://github.com/torvalds/linux) (SoC/platform support, drivers)
-
+- [Arduino](https://github.com/Test-IFX/Arduino-IFX) (cores, libraries, examples)
+- [Micropython](https://github.com/Test-IFX/MicroPython-IFX) (selected platforms/integrations)
+- 
 #### **Community, support & more resources**
 | Resource | Link |
 |---|---|
