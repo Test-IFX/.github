@@ -3,7 +3,7 @@ Welcome to the Infineon GitHub organization.
 We publish open-source software, reference implementations, tools, and documentation that help developers build secure, energy-efficient, and connected systems using Infineon technologies—across embedded, automotive, industrial, IoT, power, and security applications.
 
 ### **Explore by domain**
-[Automotive](https://github.com/Test-IFX/Automotive/tree/main) | [Edge AI](https://github.com/Test-IFX/EdgeAI-IFX)| [Power Systems](https://github.com/orgs/Infineon/repositories?q=topic%3Aio](https://github.com/Test-IFX/PowerSystems-IFX)t)
+[Automotive](https://github.com/Test-IFX/Automotive/tree/main) | [Edge AI](https://github.com/Test-IFX/EdgeAI-IFX)| [Power Systems](https://github.com/Test-IFX/PowerSystems-IFX)
 
 ### **Find code by board, product, or application**
 Use the **Infineon Code Finder** to filter projects by board, product family, and use case:  
