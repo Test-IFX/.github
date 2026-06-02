@@ -7,7 +7,7 @@ We publish open-source software, reference implementations, tools, and documenta
 
 ### **Find code by board, product, or application**
 Use the **Infineon Code Finder** to filter projects by board, product family, and use case:  
-- [Open Code Finder](https://codefinder.infineon.com/)
+- [Open Code Finder](https://jubyjohnson25.github.io/)
 
 ### Looking for Infineon enablement in popular open-source projects?
 - [Zephyr Project](https://github.com/zephyrproject-rtos/zephyr) (RTOS, boards, drivers)
